@@ -4,6 +4,8 @@ import (
 	"gorm.io/gorm"
 ) 
 
+//done
+
 type LabFinal struct {
 	gorm.Model
 	SID 	string 	`valid:"required~SID is not required"`

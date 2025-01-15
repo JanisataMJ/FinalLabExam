@@ -8,6 +8,8 @@ import (
 	"github.com/JanisataMJ/FinalLabExam/entity"
 )
 
+//done
+
 func TestValid(t *testing.T) {
 	g := NewGomegaWithT(t)
 
